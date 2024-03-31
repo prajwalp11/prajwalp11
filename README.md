@@ -1,7 +1,7 @@
 <h1 align="center">Hello, i am Prajwal P</h1>
-<h3 align="center">Versatile and motivated java developer with a</h3>
+<h3 align="center">Versatile and motivated java developer with a keen interest to learn the technologies driving the world</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
